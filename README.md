@@ -1,5 +1,20 @@
 # HTMLCSS
 
+11
+
+<!-- 
+in my form I have three input fields name, email, mobile but I want to change input text box like -
+
+name :  _____________  
+email:  _____________  
+mob  :  _____________  
+
+input[type=text] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+} -->
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
